@@ -3,7 +3,7 @@ import velocity from "velocity-animate";
 import { add } from "./modules/math";
 import { greet } from "./modules/greet";
 
-console.log("app");
+// console.log("app");
 
 const result = add(1, 2)
 
