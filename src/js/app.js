@@ -4,7 +4,6 @@ import { add } from "./modules/math";
 import { greet } from "./modules/greet";
 
 console.log("app");
-console.log("あああああ");
 
 const result = add(1, 2)
 
