@@ -7,9 +7,6 @@ console.log("app");
 
 const result = add(1, 2)
 
-
-
-
 $('body')
   .append(result)
   .append(`<p>${greet('App')}</p>`);
