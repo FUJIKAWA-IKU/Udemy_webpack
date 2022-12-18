@@ -3,8 +3,9 @@ import velocity from "velocity-animate";
 import { add } from "./modules/math";
 import { greet } from "./modules/greet";
 
-console.log("app");
+// console.log("appaaa");
 console.log("resetの挙動確認変更");
+console.log("追加〜〜〜");
 
 const result = add(1, 2)
 
