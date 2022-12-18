@@ -4,6 +4,7 @@ import { add } from "./modules/math";
 import { greet } from "./modules/greet";
 
 console.log("app");
+console.log("resetの挙動確認変更");
 
 const result = add(1, 2)
 
