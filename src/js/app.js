@@ -6,6 +6,7 @@ import { greet } from "./modules/greet";
 // console.log("appaaa");
 console.log("resetの挙動確認変更");
 console.log("追加〜〜〜");
+const aa = "restore実験";
 
 const result = add(1, 2)
 
